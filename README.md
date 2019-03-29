@@ -162,6 +162,7 @@ Latest ember-svg-jar `1.X.X` currently supports:
 
 The old addon versions <= v0.12.0 are compatible with old Node and Ember 1.10.1 and beyond.
 
+
 ## FAQ
 
 Q: `Will the asset viewer affect my production build size?`  
@@ -181,6 +182,8 @@ The viewer is a separate Ember application, which repository can be found at [th
 ## License
 
 This project is distributed under the MIT license.
+
+See the [Contributing](CONTRIBUTING.md) guide for details.
 
 ---
 

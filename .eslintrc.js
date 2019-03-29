@@ -1,3 +1,5 @@
+'use strict';
+
 module.exports = {
   root: true,
 
@@ -30,7 +32,9 @@ module.exports = {
     // for Ember node files
     {
       files: [
-        'eslint-rules.js',
+        '.eslintrc.js',
+        '.template-lintrc.js',
+        'ember-cli-build.js',
         'index.js',
         'testem.js',
         'ember-cli-build.js',
